@@ -1,0 +1,563 @@
+2025-05-26T13:00:52.413 INFO (pid:95889) - [Error - 1:00:52 PM] 26 May 2025, 1:00:52 pm Problem with codeComplete for file:///Users/sujanthapa/Projects/java-random/FileSystem.java
+FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+Java Model Exception: Error in Java Model (code 969): FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.isCompletionForConstructor(CompletionHandler.java:260)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.computeContentAssist(CompletionHandler.java:171)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.completion(CompletionHandler.java:93)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$5(JDTLanguageServer.java:580)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:79)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:690)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:527)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:507)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1460)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2036)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:189)
+
+2025-05-26T13:00:53.346 INFO (pid:95889) - [Error - 1:00:53 PM] 26 May 2025, 1:00:53 pm Problem with codeComplete for file:///Users/sujanthapa/Projects/java-random/FileSystem.java
+FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+Java Model Exception: Error in Java Model (code 969): FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.computeContentAssist(CompletionHandler.java:179)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.completion(CompletionHandler.java:93)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$5(JDTLanguageServer.java:580)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:79)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:690)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:527)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:507)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1460)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2036)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:189)
+
+2025-05-26T13:00:53.578 INFO (pid:95889) - [Error - 1:00:53 PM] 26 May 2025, 1:00:53 pm Problem with codeComplete for file:///Users/sujanthapa/Projects/java-random/FileSystem.java
+FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+Java Model Exception: Error in Java Model (code 969): FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.isCompletionForConstructor(CompletionHandler.java:260)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.computeContentAssist(CompletionHandler.java:171)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.completion(CompletionHandler.java:93)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$5(JDTLanguageServer.java:580)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:79)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:690)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:527)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:507)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1460)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2036)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:189)
+
+2025-05-26T13:00:54.470 INFO (pid:95889) - [Error - 1:00:54 PM] 26 May 2025, 1:00:54 pm Problem with codeComplete for file:///Users/sujanthapa/Projects/java-random/FileSystem.java
+FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+Java Model Exception: Error in Java Model (code 969): FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.isCompletionForConstructor(CompletionHandler.java:260)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.computeContentAssist(CompletionHandler.java:171)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.completion(CompletionHandler.java:93)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$5(JDTLanguageServer.java:580)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:79)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:690)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:527)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:507)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1460)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2036)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:189)
+
+2025-05-26T13:00:54.644 INFO (pid:95889) - [Error - 1:00:54 PM] 26 May 2025, 1:00:54 pm Problem with codeComplete for file:///Users/sujanthapa/Projects/java-random/FileSystem.java
+FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+Java Model Exception: Error in Java Model (code 969): FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.computeContentAssist(CompletionHandler.java:179)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.completion(CompletionHandler.java:93)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$5(JDTLanguageServer.java:580)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:79)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:690)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:527)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:507)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1460)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2036)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:189)
+
+2025-05-26T13:00:54.949 INFO (pid:95889) - [Error - 1:00:54 PM] 26 May 2025, 1:00:54 pm Problem with codeComplete for file:///Users/sujanthapa/Projects/java-random/FileSystem.java
+FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+Java Model Exception: Error in Java Model (code 969): FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.isCompletionForConstructor(CompletionHandler.java:260)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.computeContentAssist(CompletionHandler.java:171)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.completion(CompletionHandler.java:93)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$5(JDTLanguageServer.java:580)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:79)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:690)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:527)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:507)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1460)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2036)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:189)
+
+2025-05-26T13:00:55.383 INFO (pid:95889) - [Error - 1:00:55 PM] 26 May 2025, 1:00:55 pm Problem with codeComplete for file:///Users/sujanthapa/Projects/java-random/FileSystem.java
+FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+Java Model Exception: Error in Java Model (code 969): FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.computeContentAssist(CompletionHandler.java:179)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.completion(CompletionHandler.java:93)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$5(JDTLanguageServer.java:580)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:79)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:690)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:527)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:507)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1460)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2036)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:189)
+
+2025-05-26T13:01:00.719 INFO (pid:95889) - [Error - 1:01:00 PM] 26 May 2025, 1:01:00 pm Find signatureHelp failure 
+FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+Java Model Exception: Error in Java Model (code 969): FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.ls.core.internal.handlers.SignatureHelpHandler.signatureHelp(SignatureHelpHandler.java:78)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$8(JDTLanguageServer.java:628)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:79)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:690)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:527)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:507)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1460)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2036)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:189)
+
+2025-05-26T13:01:16.957 INFO (pid:95889) - [Error - 1:01:16 PM] 26 May 2025, 1:01:16 pm Problem with codeComplete for file:///Users/sujanthapa/Projects/java-random/FileSystem.java
+FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+Java Model Exception: Error in Java Model (code 969): FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.computeContentAssist(CompletionHandler.java:179)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.completion(CompletionHandler.java:93)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$5(JDTLanguageServer.java:580)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:79)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:690)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:527)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:507)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1460)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2036)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:189)
+
+2025-05-26T13:01:17.032 INFO (pid:95889) - [Error - 1:01:17 PM] 26 May 2025, 1:01:17 pm Problem with codeComplete for file:///Users/sujanthapa/Projects/java-random/FileSystem.java
+FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+Java Model Exception: Error in Java Model (code 969): FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.computeContentAssist(CompletionHandler.java:179)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.completion(CompletionHandler.java:93)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$5(JDTLanguageServer.java:580)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:79)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:690)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:527)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:507)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1460)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2036)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:189)
+
+2025-05-26T13:01:18.273 INFO (pid:95889) - [Error - 1:01:18 PM] 26 May 2025, 1:01:18 pm Problem with codeComplete for file:///Users/sujanthapa/Projects/java-random/FileSystem.java
+FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+Java Model Exception: Error in Java Model (code 969): FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.computeContentAssist(CompletionHandler.java:179)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.completion(CompletionHandler.java:93)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$5(JDTLanguageServer.java:580)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:79)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:690)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:527)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:507)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1460)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2036)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:189)
+
+2025-05-26T13:01:26.590 INFO (pid:95889) - [Error - 1:01:26 PM] 26 May 2025, 1:01:26 pm Find signatureHelp failure 
+FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+Java Model Exception: Error in Java Model (code 969): FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.ls.core.internal.handlers.SignatureHelpHandler.signatureHelp(SignatureHelpHandler.java:78)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$8(JDTLanguageServer.java:628)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:79)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:690)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:527)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:507)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1460)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2036)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:189)
+
+2025-05-26T13:01:27.661 INFO (pid:95889) - [Error - 1:01:27 PM] 26 May 2025, 1:01:27 pm Problem with codeComplete for file:///Users/sujanthapa/Projects/java-random/FileSystem.java
+FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+Java Model Exception: Error in Java Model (code 969): FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.computeContentAssist(CompletionHandler.java:179)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.completion(CompletionHandler.java:93)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$5(JDTLanguageServer.java:580)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:79)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:690)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:527)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:507)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1460)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2036)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:189)
+
+2025-05-26T13:01:30.886 INFO (pid:95889) - [Error - 1:01:30 PM] 26 May 2025, 1:01:30 pm Problem with codeComplete for file:///Users/sujanthapa/Projects/java-random/FileSystem.java
+FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+Java Model Exception: Error in Java Model (code 969): FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.computeContentAssist(CompletionHandler.java:179)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.completion(CompletionHandler.java:93)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$5(JDTLanguageServer.java:580)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:79)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:690)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:527)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:507)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1460)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2036)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:189)
+
+2025-05-26T13:01:32.376 INFO (pid:95889) - [Error - 1:01:32 PM] 26 May 2025, 1:01:32 pm Find signatureHelp failure 
+FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+Java Model Exception: Error in Java Model (code 969): FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.ls.core.internal.handlers.SignatureHelpHandler.signatureHelp(SignatureHelpHandler.java:78)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$8(JDTLanguageServer.java:628)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:79)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:690)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:527)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:507)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1460)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2036)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:189)
+
+2025-05-26T13:01:32.568 INFO (pid:95889) - [Error - 1:01:32 PM] 26 May 2025, 1:01:32 pm Problem with codeComplete for file:///Users/sujanthapa/Projects/java-random/FileSystem.java
+FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+Java Model Exception: Error in Java Model (code 969): FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.isCompletionForConstructor(CompletionHandler.java:260)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.computeContentAssist(CompletionHandler.java:171)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.completion(CompletionHandler.java:93)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$5(JDTLanguageServer.java:580)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:79)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:690)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:527)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:507)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1460)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2036)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:189)
+
+2025-05-26T13:01:35.420 INFO (pid:95889) - [Error - 1:01:35 PM] 26 May 2025, 1:01:35 pm Problem with codeComplete for file:///Users/sujanthapa/Projects/java-random/FileSystem.java
+FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+Java Model Exception: Error in Java Model (code 969): FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.computeContentAssist(CompletionHandler.java:179)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.completion(CompletionHandler.java:93)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$5(JDTLanguageServer.java:580)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:79)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:690)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:527)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:507)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1460)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2036)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:189)
+
+2025-05-26T13:01:36.027 INFO (pid:95889) - [Error - 1:01:36 PM] 26 May 2025, 1:01:36 pm Problem with codeComplete for file:///Users/sujanthapa/Projects/java-random/FileSystem.java
+FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+Java Model Exception: Error in Java Model (code 969): FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.computeContentAssist(CompletionHandler.java:179)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.completion(CompletionHandler.java:93)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$5(JDTLanguageServer.java:580)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:79)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:690)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:527)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:507)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1460)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2036)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:189)
+
+2025-05-26T13:01:37.950 INFO (pid:95889) - [Error - 1:01:37 PM] 26 May 2025, 1:01:37 pm Problem with codeComplete for file:///Users/sujanthapa/Projects/java-random/FileSystem.java
+FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+Java Model Exception: Error in Java Model (code 969): FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.computeContentAssist(CompletionHandler.java:179)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.completion(CompletionHandler.java:93)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$5(JDTLanguageServer.java:580)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:79)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:690)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:527)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:507)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1460)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2036)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:189)
+
+2025-05-26T13:01:37.977 INFO (pid:95889) - [Error - 1:01:37 PM] 26 May 2025, 1:01:37 pm Problem with codeComplete for file:///Users/sujanthapa/Projects/java-random/FileSystem.java
+FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+Java Model Exception: Error in Java Model (code 969): FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.computeContentAssist(CompletionHandler.java:179)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.completion(CompletionHandler.java:93)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$5(JDTLanguageServer.java:580)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:79)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:690)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:527)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:507)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1460)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2036)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:189)
+
+2025-05-26T13:01:42.280 INFO (pid:95889) - [Error - 1:01:42 PM] 26 May 2025, 1:01:42 pm Problem with codeComplete for file:///Users/sujanthapa/Projects/java-random/FileSystem.java
+FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+Java Model Exception: Error in Java Model (code 969): FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.computeContentAssist(CompletionHandler.java:179)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.completion(CompletionHandler.java:93)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$5(JDTLanguageServer.java:580)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:79)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:690)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:527)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:507)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1460)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2036)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:189)
+
+2025-05-26T13:01:43.560 INFO (pid:95889) - [Error - 1:01:43 PM] 26 May 2025, 1:01:43 pm Problem with codeComplete for file:///Users/sujanthapa/Projects/java-random/FileSystem.java
+FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+Java Model Exception: Error in Java Model (code 969): FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.computeContentAssist(CompletionHandler.java:179)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.completion(CompletionHandler.java:93)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$5(JDTLanguageServer.java:580)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:79)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:690)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:527)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:507)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1460)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2036)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:189)
+
+2025-05-26T13:01:44.312 INFO (pid:95889) - [Error - 1:01:44 PM] 26 May 2025, 1:01:44 pm Problem with codeComplete for file:///Users/sujanthapa/Projects/java-random/FileSystem.java
+FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+Java Model Exception: Error in Java Model (code 969): FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.computeContentAssist(CompletionHandler.java:179)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.completion(CompletionHandler.java:93)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$5(JDTLanguageServer.java:580)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:79)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:690)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:527)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:507)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1460)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2036)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:189)
+
+2025-05-26T13:01:44.697 INFO (pid:95889) - [Error - 1:01:44 PM] 26 May 2025, 1:01:44 pm Problem with codeComplete for file:///Users/sujanthapa/Projects/java-random/FileSystem.java
+FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+Java Model Exception: Error in Java Model (code 969): FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.computeContentAssist(CompletionHandler.java:179)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.completion(CompletionHandler.java:93)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$5(JDTLanguageServer.java:580)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:79)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:690)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:527)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:507)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1460)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2036)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:189)
+
+2025-05-26T13:01:44.925 INFO (pid:95889) - [Error - 1:01:44 PM] 26 May 2025, 1:01:44 pm Problem with codeComplete for file:///Users/sujanthapa/Projects/java-random/FileSystem.java
+FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+Java Model Exception: Error in Java Model (code 969): FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.computeContentAssist(CompletionHandler.java:179)
+	at org.eclipse.jdt.ls.core.internal.handlers.CompletionHandler.completion(CompletionHandler.java:93)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$5(JDTLanguageServer.java:580)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:79)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:690)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:527)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:507)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1460)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2036)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:189)
+
+2025-05-26T13:02:04.518 INFO (pid:95889) - [Error - 1:02:04 PM] 26 May 2025, 1:02:04 pm Find signatureHelp failure 
+FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+Java Model Exception: Error in Java Model (code 969): FileSystem.java [in <default> [in _ [in java-random_a3cd8069]]] does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.ls.core.internal.handlers.SignatureHelpHandler.signatureHelp(SignatureHelpHandler.java:78)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$8(JDTLanguageServer.java:628)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:79)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:690)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:527)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:507)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1460)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2036)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:189)
+
+2025-05-26T13:23:03.722 WARN (pid:99643) - Could not find lombok.jar path.
+2025-05-26T13:23:03.729 INFO (pid:99643) - Starting Java server with: /opt/homebrew/Cellar/openjdk/23.0.2/libexec/openjdk.jdk/Contents/Home/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=UTF-8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/Users/sujanthapa/.config/coc/extensions/coc-java-data -jar /Users/sujanthapa/.config/coc/extensions/node_modules/coc-java/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /Users/sujanthapa/.config/coc/extensions/coc-java-data/1.14.1/config_mac -data /Users/sujanthapa/.config/coc/extensions/coc-java-data/jdt_ws
+2025-05-26T13:23:03.856 INFO (pid:99643) - WARNING: Using incubator modules: jdk.incubator.vector
+
+2025-05-26T13:23:11.634 INFO (pid:99643) - [Error - 1:23:11 PM] Sending request textDocument/inlayHint failed.
+2025-05-26T13:23:11.635 INFO (pid:99643) -   Message: The request (id: 1, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2025-05-26T13:23:11.638 INFO (pid:99643) - [Error - 1:23:11 PM] Sending request textDocument/inlayHint failed.
+2025-05-26T13:23:11.638 INFO (pid:99643) -   Message: The request (id: 2, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2025-05-26T13:23:11.638 INFO (pid:99643) - [Error - 1:23:11 PM] Sending request textDocument/inlayHint failed.
+2025-05-26T13:23:11.638 INFO (pid:99643) -   Message: The request (id: 3, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2025-05-26T13:23:11.638 INFO (pid:99643) - [Error - 1:23:11 PM] Sending request textDocument/inlayHint failed.
+2025-05-26T13:23:11.638 INFO (pid:99643) -   Message: The request (id: 4, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2025-05-26T13:23:11.638 INFO (pid:99643) - [Error - 1:23:11 PM] Sending request textDocument/inlayHint failed.
+2025-05-26T13:23:11.638 INFO (pid:99643) -   Message: The request (id: 5, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2025-05-26T13:37:01.964 INFO (pid:99643) - compile.nullAnalysis.mode set to disabled
+2025-05-26T13:42:03.482 WARN (pid:2087) - Could not find lombok.jar path.
+2025-05-26T13:42:03.489 INFO (pid:2087) - Starting Java server with: /opt/homebrew/Cellar/openjdk/23.0.2/libexec/openjdk.jdk/Contents/Home/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=UTF-8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/Users/sujanthapa/.config/coc/extensions/coc-java-data -jar /Users/sujanthapa/.config/coc/extensions/node_modules/coc-java/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /Users/sujanthapa/.config/coc/extensions/coc-java-data/1.14.1/config_mac -data /Users/sujanthapa/.config/coc/extensions/coc-java-data/jdt_ws
+2025-05-26T13:42:03.638 INFO (pid:2087) - WARNING: Using incubator modules: jdk.incubator.vector
+
+2025-05-27T21:44:52.631 WARN (pid:15043) - Could not find lombok.jar path.
+2025-05-27T21:44:52.640 INFO (pid:15043) - Starting Java server with: /opt/homebrew/Cellar/openjdk/23.0.2/libexec/openjdk.jdk/Contents/Home/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=UTF-8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/Users/sujanthapa/.config/coc/extensions/coc-java-data -jar /Users/sujanthapa/.config/coc/extensions/node_modules/coc-java/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /Users/sujanthapa/.config/coc/extensions/coc-java-data/1.14.1/config_mac -data /Users/sujanthapa/.config/coc/extensions/coc-java-data/jdt_ws
+2025-05-27T21:44:52.771 INFO (pid:15043) - WARNING: Using incubator modules: jdk.incubator.vector
+
+2025-05-27T21:44:54.731 INFO (pid:15043) - [Error - 9:44:54 PM] 27 May 2025, 9:44:54 pm Error occured while building workspace. Details: 
+ message: HashMap cannot be resolved to a type; code: 16777218; resource: /Users/sujanthapa/Projects/java-random/FileSystem.java; line: 2
+ message: ArrayList cannot be resolved to a type; code: 16777218; resource: /Users/sujanthapa/Projects/java-random/FileSystem.java; line: 2
+ message: HashMap cannot be resolved to a type; code: 16777218; resource: /Users/sujanthapa/Projects/java-random/FileSystem.java; line: 2
+ message: ArrayList cannot be resolved to a type; code: 16777218; resource: /Users/sujanthapa/Projects/java-random/FileSystem.java; line: 6
+ message: ArrayList cannot be resolved to a type; code: 16777218; resource: /Users/sujanthapa/Projects/java-random/FileSystem.java; line: 6
+ message: HashMap cannot be resolved to a type; code: 16777218; resource: /Users/sujanthapa/Projects/java-random/FileSystem.java; line: 7
+ message: ArrayList cannot be resolved to a type; code: 16777218; resource: /Users/sujanthapa/Projects/java-random/FileSystem.java; line: 7
+ message: ArrayList cannot be resolved to a type; code: 16777218; resource: /Users/sujanthapa/Projects/java-random/FileSystem.java; line: 10
+ message: Cannot make a static reference to the non-static field homeDir; code: 33554506; resource: /Users/sujanthapa/Projects/java-random/FileSystem.java; line: 10
+ message: Syntax error, insert ";" to complete Statement; code: 1610612976; resource: /Users/sujanthapa/Projects/java-random/FileSystem.java; line: 18
+2025-05-27T21:44:54.871 INFO (pid:15043) - [Error - 9:44:54 PM] Sending request textDocument/inlayHint failed.
+2025-05-27T21:44:54.871 INFO (pid:15043) -   Message: The request (id: 1, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 

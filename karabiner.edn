@@ -1,0 +1,76 @@
+{
+ :profiles {
+    :Default { :default true
+        :sim     0
+        :alone   10
+        :delay   10
+        :held    10
+    }
+  }
+
+ :simlayers {
+             :paren-mode {:key :f} ;; (){}[]
+             :symbol-mode {:key :a} ;; &|!+=*%$~`
+             :num-mode {:key :j} ;; 0123456789
+             }
+
+ :main [
+        {:des "left_control to left_control + left_command + left_option"
+         :rules [[:##left_control :!COleft_control ]]
+         }
+
+        {:des "shift + tab to down_arrow"
+         :rules [[:!Sup_arrow :down_arrow ]]
+         }
+
+        {:des "paren-mode"
+         :rules [:paren-mode
+                 [:##u :!S9]
+                 [:##i :!S0]
+
+                 [:##j :!Sopen_bracket]
+                 [:##k :!Sclose_bracket]
+
+                 [:##m :open_bracket]
+                 [:##comma :close_bracket]
+                 ]
+         }
+
+
+
+        {:des "symbol-mode"
+         :rules [:symbol-mode
+                 [:##j :!Sequal_sign]
+                 [:##k :equal_sign]
+
+                 [:##l :!S8]
+                 [:##semicolon :!S5]
+
+                 [:##s :!S7]
+                 [:##d :!Sbackslash]
+                 [:##f :!S1]
+
+                 [:##u :!S4]
+                 [:##i :!Sgrave_accent_and_tilde]
+                 [:##o :grave_accent_and_tilde]
+                 ]
+         }
+
+        {:des "num-mode"
+         :rules [:num-mode
+                 [:##a :0]
+                 [:##s :1]
+                 [:##d :2]
+                 [:##f :3]
+
+                 [:##k :4]
+                 [:##l :5]
+                 [:##semicolon :6]
+
+                 [:##x :7]
+                 [:##c :8]
+                 [:##v :9]
+                 ]
+         }
+        ]
+ }

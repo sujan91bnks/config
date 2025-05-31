@@ -1,0 +1,68 @@
+{
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1732503685034
+	},
+	"usage": true,
+	"analytics-uuid": "be4145e2-ea9c-49d5-9986-aae08ae6ae9e",
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "101764312591087354118",
+		"email": "10thapasujan91@gmail.com",
+		"email_verified": true,
+		"at_hash": "g9p5fzFatOnseUAj6v_TKg",
+		"iat": 1732468178,
+		"exp": 1732471778
+	},
+	"tokens": {
+		"expires_at": 1732506181970,
+		"refresh_token": "1//05frnYkKOAQzPCgYIARAAGAUSNwF-L9Ir2FKcfgUDfh8TOF8o66390KWtwffQfnLSjvK-s0zl1X2VAk4fq1PAuHAAnKm-0xQ86Ew",
+		"scopes": [],
+		"access_token": "ya29.a0AeDClZCNGj5O6FNk1WKIu2DEmU3I389wLOjXleZedzl4ZRoI7vZ4Gj-9Ro8-4SwBeGK2nvGOwbb_DyFOgyhxol-3Rag14oQoWKzyeODvbs6q7Xzc5cYvCEg0obiuY9SdeNvUdldo6siwfMciZ_EdJ14YrDmMVRipc6PYcF1SIR7A4fcaCgYKAQsSARISFQHGX2MiMu6AJb-XOccDzCVDnXBiHA0182",
+		"expires_in": 3599,
+		"scope": "https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase https://www.googleapis.com/auth/userinfo.email openid",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjM2MjgyNTg2MDExMTNlNjU3NmE0NTMzNzM2NWZlOGI4OTczZDE2NzEiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTAxNzY0MzEyNTkxMDg3MzU0MTE4IiwiZW1haWwiOiIxMHRoYXBhc3VqYW45MUBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXRfaGFzaCI6ImJ4VjVyMEdkTmpFRF9JbGNRS0RDaXciLCJpYXQiOjE3MzI1MDI1ODIsImV4cCI6MTczMjUwNjE4Mn0.NqIw9hRECVwIB-d6D_deIcwu5JCuKPW-CaO67kJVobKhzHYzI6razvnAUIyyCX-T2OsxQeVEE4bRpQDuwbcx_sI7ZQRAlzy2Lmw7iscs-qAxX9BWaiasD4klpKwV4f8-pLZlm2GrDHCIKiBPI-VSf4EV2hjh3lxdkPkFQ22nGQbHLu0F-U2N0uHQRrqK-WsGwaQgHikLF7D-YFNzdEs-CLP_NaANMnMyp_bqXVqffTVktmkJncb6fqfVqx-7QmMjxu9vQxSkX450b5RiHNX4trtT3BolkPdCMQ6u3TW76sPL7DJSIqkFP5CYgNqH3OxSsoqN1K69nXJLljgWA4UGCw"
+	},
+	"activeProjects": {
+		"/Users/sujanthapa/Projects/Ama/amazon-clone": "challenge-1a0ee",
+		"/Users/sujanthapa/Projects/firebase-learning": "fireship-learning-f6044",
+		"/Users/sujanthapa/Projects/twitter-clone": "twitter-clone-8079a",
+		"/Users/sujanthapa/Projects/firebase-learn": "fireship-learning-f6044"
+	},
+	"emulator-analytics-clientId": "0eac9668-889c-4762-b566-7288b2c02de2",
+	"adminsdkconfig": {
+		"challenge-1a0ee": {
+			"projectId": "challenge-1a0ee",
+			"storageBucket": "challenge-1a0ee.appspot.com"
+		}
+	},
+	"webconfig": {
+		"challenge-1a0ee": {
+			"projectId": "challenge-1a0ee",
+			"appId": "1:784193295506:web:334ed737abca6b7838c24b",
+			"storageBucket": "challenge-1a0ee.appspot.com",
+			"apiKey": "AIzaSyBbyN1OnNJN6WWbeKImo1ivGVNF5PtroDQ",
+			"authDomain": "challenge-1a0ee.firebaseapp.com",
+			"messagingSenderId": "784193295506",
+			"measurementId": "G-T8ZNSYVTLR"
+		},
+		"fireship-learning-f6044": {
+			"projectId": "fireship-learning-f6044",
+			"appId": "1:972969617794:web:3caefa2acc652a84a9879b",
+			"storageBucket": "fireship-learning-f6044.appspot.com",
+			"apiKey": "AIzaSyAWO9ohv6NiX370zJHvRSvDZFTPo0mt0DY",
+			"authDomain": "fireship-learning-f6044.firebaseapp.com",
+			"messagingSenderId": "972969617794",
+			"measurementId": "G-S6W49RP3MX"
+		}
+	}
+}

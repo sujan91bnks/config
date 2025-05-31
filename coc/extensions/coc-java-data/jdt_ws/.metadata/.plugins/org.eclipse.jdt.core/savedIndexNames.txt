@@ -1,0 +1,10 @@
+INDEX VERSION 1.132+/Users/sujanthapa/.config/coc/extensions/coc-java-data/jdt_ws/.metadata/.plugins/org.eclipse.jdt.core
+3842426239.index
+3762251980.index
+1924484980.index
+4192653516.index
+1925059840.index
+1209369328.index
+2152125967.index
+1865797976.index
+4013607337.index

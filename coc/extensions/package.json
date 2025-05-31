@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "coc-java": ">=1.14.1",
+    "coc-tsserver": ">=2.1.3"
+  }
+}
