@@ -29,7 +29,8 @@ vim.opt.encoding = "utf8"
 vim.opt.history = 5000
 vim.opt.clipboard = "unnamedplus"
 
-vim.keymap.set("n", "dd", "_dd", { noremap = true })
+vim.keymap.set("n", "d", '"_d', { noremap = true })
+vim.keymap.set("n", "dd", '"_dd', { noremap = true })
 vim.keymap.set("n", "<C-e>", ":Oil<CR>", { noremap = true, silent = true })
 vim.keymap.set("n", "<C-f>", ":Telescope find_files<CR>", { noremap = true, silent = true })
 vim.keymap.set("n", "<C-g>", ":Telescope live_grep<CR>", { noremap = true, silent = true })

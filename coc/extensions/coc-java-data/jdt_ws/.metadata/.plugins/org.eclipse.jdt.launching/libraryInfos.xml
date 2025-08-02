@@ -2,6 +2,7 @@
 <libraryInfos>
     <libraryInfo home="/Library/Java/JavaVirtualMachines/jdk-23.jdk/Contents/Home" version="23.0.2"/>
     <libraryInfo home="/Library/Java/JavaVirtualMachines/temurin-23.jdk/Contents/Home" version="23.0.2"/>
+    <libraryInfo home="/opt/homebrew/Cellar/openjdk/24.0.1/libexec/openjdk.jdk/Contents/Home" version="24.0.1"/>
     <libraryInfo home="/opt/homebrew/Cellar/openjdk/23.0.2/libexec/openjdk.jdk/Contents/Home" version="23.0.2"/>
     <libraryInfo home="/Library/Java/JavaVirtualMachines/temurin-16.jdk/Contents/Home" version="16.0.2"/>
 </libraryInfos>

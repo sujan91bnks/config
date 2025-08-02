@@ -1,7 +1,7 @@
 eclipse.preferences.version=1
 org.eclipse.jdt.core.circularClasspath=warning
-org.eclipse.jdt.core.classpathVariable.JRE_LIB=/opt/homebrew/Cellar/openjdk/23.0.2/libexec/openjdk.jdk/Contents/Home/lib/jrt-fs.jar
-org.eclipse.jdt.core.classpathVariable.JRE_SRC=/opt/homebrew/Cellar/openjdk/23.0.2/libexec/openjdk.jdk/Contents/Home/lib/src.zip
+org.eclipse.jdt.core.classpathVariable.JRE_LIB=/opt/homebrew/Cellar/openjdk/24.0.1/libexec/openjdk.jdk/Contents/Home/lib/jrt-fs.jar
+org.eclipse.jdt.core.classpathVariable.JRE_SRC=/opt/homebrew/Cellar/openjdk/24.0.1/libexec/openjdk.jdk/Contents/Home/lib/src.zip
 org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
 org.eclipse.jdt.core.codeComplete.subwordMatch=disabled
 org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
